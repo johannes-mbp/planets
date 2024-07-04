@@ -1,0 +1,5 @@
+Results/
+*.ipynb
+
+" ignore this notebook
+!foo.ipynb
